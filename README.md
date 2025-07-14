@@ -1,73 +1,77 @@
-# Welcome to your Lovable project
+<h1 align="center">Techlyn Solutions — Official Website</h1>
 
-## Project info
+<p align="center">
+  Empowering businesses with Agentic AI, automation, and smart digital systems. <br />
+  🌐 <a href="https://techlynsolutions.com" target="_blank">techlynsolutions.com</a>
+</p>
+<p align="center">
+  <img src="https://github.com/Techlyn-Solutions/Techlyn-Solutions-Website/blob/main/screenshots/homepage.jpg" alt="Techlyn Solutions Website Cover" />
+</p>
+---
 
-**URL**: https://lovable.dev/projects/05db44ec-4006-4e50-b30d-93a6b6dceb17
+## 🚀 Overview
 
-## How can I edit this code?
+This is the official website repository of **Techlyn Solutions**, a modern tech agency delivering cutting-edge solutions in:
 
-There are several ways of editing your application.
+- 🤖 Agentic AI tools & agents  
+- ⚙️ Business process automation  
+- 💻 Custom dashboards & digital products  
+- 🧠 AI integration for startups & SMEs  
 
-**Use Lovable**
+We help businesses grow smarter, faster, and more efficiently.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/05db44ec-4006-4e50-b30d-93a6b6dceb17) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🔧 Tech Stack
 
-**Use your preferred IDE**
+| Technology       | Purpose                           |
+|------------------|------------------------------------|
+| HTML, TailwindCSS| Modern, responsive UI              |
+| JavaScript       | Dynamic frontend interactions      |
+| Vite + React     | Fast development & component system|
+| Vercel           | Deployment & hosting               |
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 📸 Screenshots
 
-Follow these steps:
+<p align="center">
+  <img src="https://github.com/Techlyn-Solutions/Techlyn-Solutions-Website/blob/main/screenshots/services.jpg" width="450" alt="Homepage Screenshot" />
+  <img src="https://github.com/Techlyn-Solutions/Techlyn-Solutions-Website/blob/main/screenshots/cover.jpg" width="450" alt="Services Screenshot" />
+</p>
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 📦 Installation & Setup
 
-# Step 3: Install the necessary dependencies.
-npm i
+To run the project locally:
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
 ```
+git clone https://github.com/Techlyn-Solutions/Techlyn-Solutions-Website.git
 
-**Edit a file directly in GitHub**
+cd Techlyn-Solutions-Website
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+npm install
 
-**Use GitHub Codespaces**
+npm run dev
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Then open your browser and go to:
 
-## What technologies are used for this project?
+👉 http://localhost:3000
+```
+📫 Contact & Links
+🌐 Website: www.techlynsolutions.com
 
-This project is built with:
+📧 Email: team.techlynsolutions@gmail.com
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+🔗 LinkedIn: https://www.linkedin.com/company/techlyn-solutions
 
-## How can I deploy this project?
+🔗 Facebook: https://www.facebook.com/profile.php?id=61577036004854
 
-Simply open [Lovable](https://lovable.dev/projects/05db44ec-4006-4e50-b30d-93a6b6dceb17) and click on Share -> Publish.
+🧠 About Techlyn Solutions
+Founded in 2024, Techlyn Solutions is a visionary team aiming to revolutionize digital transformation through AI, automation, and scalable web systems. We collaborate with clients worldwide to deliver powerful, tailored solutions.
 
-## Can I connect a custom domain to my Lovable project?
+🤝 Contributing
+This is an official company-owned repository.
+Feel free to open issues or pull requests for suggestions and improvements.
 
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
